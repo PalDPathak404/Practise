@@ -1,12 +1,9 @@
-# My codingGita Learning Journey
+# Practise
 
-## What I Learned Today
+A learning project to understand Git and version control.
 
-- Git helps track changes in my code
-- I can always go back to previous versions
-- This is like having a super-smart backup system!
- echo ## Project Files echo - README.md: Project documentation
-- style.css: Project styling
-- script.js: Project functionality
-mango maroooonto,
-manto jo sa mura,
+## Project Structure
+- css/: Styling files
+- js/: JavaScript files
+- images/: Project images
+- docs/: Project documentation
